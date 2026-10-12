@@ -3,7 +3,7 @@
 <h3 align="center">DevOps / Site Reliability Engineer · Kubernetes · Docker · CI/CD</h3>
 
 <p align="center">
-I design resilient infrastructure and automate deployment pipelines for high-availability financial platforms.
+I love to design resilient infrastructure and automate things and make sure everything runs perfectly
 </p>
 
 <p align="center">
@@ -23,16 +23,12 @@ I design resilient infrastructure and automate deployment pipelines for high-ava
 - 🌍 Isfahan, Iran · open to remote
 ### Tech stack
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Vault](https://img.shields.io/badge/Vault-000000?style=flat&logo=vault&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
@@ -40,7 +36,7 @@ I design resilient infrastructure and automate deployment pipelines for high-ava
 ### What I care about
 
 ```
-Reliable deployments  •  Observability  •  Secure secrets  •  Automation with guardrails
+Reliable deployments  •  Observability  •  Secure secrets  •  Automation 
 ```
 
 ---
