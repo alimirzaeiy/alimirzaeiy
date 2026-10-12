@@ -17,12 +17,10 @@ I design resilient infrastructure and automate deployment pipelines for high-ava
 
 ### About me
 
-- ☸️ SRE at **Iranicard**, running CI/CD and production for 5+ financial products across dozens of containers
-- 🔐 Previously DevOps at **ZarinPal** (Kubernetes for a crypto exchange, GitLab CI/CD for 7 fintech projects) and **Mohaymen ICT** (Dockerized 12+ .NET microservices)
-- 🤖 Building internal tooling and AI-driven automation with strict production guardrails
-- 📊 Focused on observability: Prometheus, Grafana, Alertmanager, ELK & Loki
-- 🌍 Based in Isfahan, Iran · open to relocation and remote work
-
+- ☸️ DevOps / SRE focused on Kubernetes, Docker, and CI/CD
+- 🤖 Building internal tools and AI-driven automation
+- 📊 Observability with Prometheus, Grafana, and Loki
+- 🌍 Isfahan, Iran · open to remote
 ### Tech stack
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
@@ -38,11 +36,6 @@ I design resilient infrastructure and automate deployment pipelines for high-ava
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-### Featured projects
-
-- **[DrawOps](https://github.com/alimirzaeiy/DrawOps)**: open-source server manager for SSH and Docker on an infinite canvas
-- **AI Terminal Operations Agent**: LLM-powered CLI agent for SSH server administration, with human-in-the-loop approvals
-- **ClickUp Triage Dashboard**: task triage and observability dashboard built on the ClickUp API
 
 ### What I care about
 
